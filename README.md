@@ -1,7 +1,7 @@
 # Stock Chat Assistant — Tikona Capital
 
 A Streamlit-based chatbot for financial research, powered by Google Gemini and yfinance.  
-Built for Tikona Capital Finserv Pvt. Ltd. as an AI Generalist & Quant Research Intern Interview Project.
+Built for AI Generalist & Quant Research Intern Interview Project.
 
 ---
 
@@ -60,5 +60,5 @@ Built for Tikona Capital Finserv Pvt. Ltd. as an AI Generalist & Quant Research 
 
 ---
 
-© 2025 Tikona Capital Finserv Pvt. Ltd.  
-Demo project by Ansh Vishwakarma
+
+project by Ansh Vishwakarma
